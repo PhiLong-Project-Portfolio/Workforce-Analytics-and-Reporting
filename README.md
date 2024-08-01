@@ -3,6 +3,8 @@
 ### About HR Dataset v14
 HR Dataset is designed by Drs. Rich Huebner and Carla Patalano to accompany a case study intended for studying HR metrics, measurement, and analytics. It provides comprehensive data to explore various aspects of human resources management, offering a rich source of information for in-depth analysis and insights.
 
+![Screenshot 2024-08-01 165604](https://github.com/user-attachments/assets/b1551cf3-25d9-4436-8b1c-00d5d7370d23)
+
 ### About my project
 The project employs SQL for data extraction and manipulation, ensuring accurate and efficient data handling. Power BI is used for visualization, presenting the data in an accessible and visually appealing format.
 
