@@ -19,7 +19,7 @@ The analysis focuses on two core sections:
 ![Screenshot 2024-08-01 165029](https://github.com/user-attachments/assets/34331500-d4f9-4b9a-b94f-016c3b4e4ad6)
   
 ### Instruction
-- [Download HR Dataset v14](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+- [Download HR Dataset v14](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
 - Import HR Dataset into SQL Server.
 
