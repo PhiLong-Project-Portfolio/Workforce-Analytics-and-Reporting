@@ -9,7 +9,7 @@ The project employs SQL for data extraction and manipulation, ensuring accurate 
 The analysis focuses on two core sections:
 
 - **Employee Overview:** This section provides a detailed examination of the company's workforce, including demographic information. It gives a clear understanding about the current number of employees, total of hired employees and total of terminated employees.
-![Uploading Screenshot 2024-08-01 164938.png…]()
+![Screenshot 2024-08-01 164938](https://github.com/user-attachments/assets/c597215a-76d4-47b4-80fd-83923209b03f)
 
 
 - **Employee Details:** This section delves deeper into employee engagement, satisfaction, retention, and absenteeism rates, providing a detailed analysis of these critical HR aspects.
