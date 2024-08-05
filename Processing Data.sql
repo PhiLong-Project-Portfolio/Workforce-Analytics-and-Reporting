@@ -74,7 +74,7 @@ UPDATE HumanResources.dbo.HRDataset
 SET LastPerformanceReview_Date = '2018-08-19'
 WHERE EmpID = 10305 
 
--- Create necessary table
+-- Create necessary tables
 -- Deparment
 SELECT
 	DeptID,
