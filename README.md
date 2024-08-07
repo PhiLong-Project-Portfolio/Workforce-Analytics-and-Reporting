@@ -11,6 +11,7 @@ The project employs SQL for data extraction and manipulation, ensuring accurate 
 The analysis focuses on two core sections:
 
 - **Employee Overview:** This section provides a overview examination of the company's workforce. The dashboard effectively highlights key HR metrics, offering a clear picture of employee demographics, departmental distribution, salary averages, and hiring trends. These insights can be instrumental in guiding HR strategies, addressing workforce imbalances, and optimizing departmental resources.
+
 ![Screenshot 2024-08-01 164938](https://github.com/user-attachments/assets/c597215a-76d4-47b4-80fd-83923209b03f)
 
 - **Employee Details:** This section delves deeper into employees, providing a detailed analysis of these critical HR aspects. The dashboard provides a clear visualization of critical HR metrics, helping to identify areas needing attention and guiding strategic initiatives to enhance employee retention, engagement, satisfaction, and performance.
